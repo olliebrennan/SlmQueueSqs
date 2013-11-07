@@ -78,7 +78,7 @@ return array(
     'slm_queue' => array(
         'queues' => array(
             'factories' => array(
-                'newsletter' => 'SlmQueueSqs\Factory\SqsQueueFactory'
+                'email' => 'SlmQueueSqs\Factory\SqsQueueFactory'
             )
         )
     )
