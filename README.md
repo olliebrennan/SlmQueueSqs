@@ -38,7 +38,7 @@ add the following line into your `composer.json` file:
 
 ```json
 "require": {
-	"juriansluiman/slm-queue-sqs": ">=0.2"
+	"slm/queue-sqs": ">=0.2"
 }
 ```
 
